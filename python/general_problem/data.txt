@@ -1,0 +1,3 @@
+        check_rule_1                  True
+        check_rule_2                 False
+        check_rule_3                  True
